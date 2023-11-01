@@ -7,4 +7,4 @@ Presentación de trabajo en el Congreso Internacional de Ingeniería Industrial 
 
 
 Cómo citar:
-No, I. N. et al. (2023, Noviembre 1-3). Industrias del Conocimiento y las Mujeres STEM: Redes y ChatGPT como Recursos. COINI 2023. Zenodo. https:DOI
+NO, I. N. (2023, noviembre 1). INDUSTRIAS DEL CONOCIMIENTO Y LAS MUJERES STEM: REDES Y CHATGPT COMO RECURSOS. CONGRESO INTERNACIONAL DE INGENIERÍA INDUSTRIAL y AFINES (COINI 2023), San Nicolás de los Arroyos, Buenos Aires, Argentina. Zenodo. https://doi.org/10.5281/zenodo.10065133
